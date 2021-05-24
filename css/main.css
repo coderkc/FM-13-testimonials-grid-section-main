@@ -70,7 +70,8 @@ body {
 }
 
 .box-1 {
-  background: #7541c8;
+  background: #7541c8 url("../../images/bg-pattern-quotation.svg") no-repeat;
+  background-position: 85% 0%;
 }
 
 .box-2 {
